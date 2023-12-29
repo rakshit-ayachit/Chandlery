@@ -34,7 +34,8 @@ Before you get started, make sure you have the following prerequisites installed
 
 - **Python**: You can download Python from the [official Python website](https://www.python.org/downloads/).
 - **Git**: To clone the repository, you'll need Git. You can download it from [here](https://git-scm.com/downloads).
-- **Zerodha-Kite Account**: Access to a Zerodha account is required to obtain the necessary authentication tokens for data access. You can access it from [here](https://kite.zerodha.com/).
+- **Zerodha-Kite Account**: Access to a [Zerodha account](https://kite.zerodha.com/) is required to obtain the necessary authentication tokens for data access.
+- **Easy Cookie Editor Google Extension**: : Install the [Easy Cookie Editor extension](https://chromewebstore.google.com/detail/easy-cookie-editor/lidhbccbajehjnpfjpnamoiemcnhhnki) on your Google Chrome browser. This extension facilitates the management and editing of cookies, which is crucial for authentication.
 
 ## Getting Started and Running the Application
 
