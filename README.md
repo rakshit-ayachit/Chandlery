@@ -60,9 +60,8 @@ Before you get started, make sure you have the following prerequisites installed
 5. **Select a stock, interval, and duration to analyze candlestick patterns.**
 
 ## Screenshots
-![chandlery_stream · Streamlit - Google Chrome 12_29_2023 2_42_24 PM](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/9cb1a02f-e6ad-42b0-8dcb-dd9ebc809efc)
-
-![chandlery_stream · Streamlit - Google Chrome 12_29_2023 2_42_52 PM](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/75518c06-a173-42a3-95c8-1a475755b003)
+![chandlery_stream · Streamlit - Google Chrome 12_29_2023 7_48_05 PM](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/c8771405-d612-4dc1-8260-98cb3660148a)
+![chandlery_stream · Streamlit - Google Chrome 12_29_2023 7_48_25 PM](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/9301282c-e11d-4506-9d47-316ce73328f4)
 
 
 ## Contributing
