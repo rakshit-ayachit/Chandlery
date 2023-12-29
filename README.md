@@ -1,4 +1,6 @@
+<p align="center">
 ![chandlery0](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/87bed86d-e7ba-4158-b683-6cc07f9d9dc6)
+</p>
 # Chandlery: Illuminating Market Signals
 
 Chandlery is a Python tool designed for comprehensive candlestick pattern analysis to Zerodha's stock market data. By employing an alternative approach to accessing Zerodha's data, Chandlery empowers users to perform in-depth analysis of candlestick patterns without direct API integration. This tool facilitates historical data retrieval, pattern identification, and signal significance analysis, enabling users to make informed decisions in stock trading based on advanced technical analysis techniques. Chandlery provides a user-friendly interface for visualizing candlestick patterns, offering valuable insights into stock market trends and potential trading opportunities.
