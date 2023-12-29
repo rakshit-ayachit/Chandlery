@@ -56,9 +56,7 @@ Before you get started, make sure you have the following prerequisites installed
 5. **Select a stock, interval, and duration to analyze candlestick patterns.**
 
 ## Screenshots
-![index](https://github.com/rakshit-ayachit/weve-got-herbes/assets/129822642/26882d6d-eaf9-4679-876b-5e650154bc51)
-![classify](https://github.com/rakshit-ayachit/weve-got-herbes/assets/129822642/f9a31291-cd9a-4cca-84f5-fed2e92dc801)
-![chatbot](https://github.com/rakshit-ayachit/weve-got-herbes/assets/129822642/608824ba-c8ba-4878-b4c8-1de6fb9ce65b)
+
 
 
 ## Contributing
@@ -77,10 +75,10 @@ This project is currently under active development, and new features and improve
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [MIT LICENSE](LICENSE).
 
 ## Disclaimer
-
+Please note, Chandlery is currently under development and may not fully function for all market scenarios, particularly for sideways trends. It is intended for personal use only and should not be considered as a professional trading strategy or financial advice. Users are encouraged to seek guidance from financial experts before executing any trades based on the information provided by this application. The developer cannot be held responsible for any financial losses incurred by using this app.
 
        
 
