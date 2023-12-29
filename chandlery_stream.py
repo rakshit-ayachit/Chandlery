@@ -9,7 +9,7 @@ import time
 with open("enctoken.txt") as f1:
 	enctoken = f1.read()
 
-kite = KiteApp("s1", "WSJ338", enctoken)
+kite = KiteApp("s1", "U#####", enctoken)
 instrument_dump = kite.instruments("NSE")
 instrument_df = pd.DataFrame(instrument_dump)
 # instrument_dump = kite.instruments("BSE")
