@@ -1,5 +1,6 @@
 <p align="center">
-![chandlery0](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/87bed86d-e7ba-4158-b683-6cc07f9d9dc6)
+![chandlery0](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/15047a63-7c47-40af-8156-f3d9ff618e7f)
+
 </p>
 # Chandlery: Illuminating Market Signals
 
