@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="![chandlery0](https://github.com/rakshit-ayachit/Chandlery/assets/129822642/36c68c20-5485-4e4e-bb36-6fdd70c33582)">
+  <img width="460" height="300" src="https://github.com/rakshit-ayachit/Chandlery/assets/129822642/36c68c20-5485-4e4e-bb36-6fdd70c33582">
 </p>
 
 # Chandlery: Illuminating Market Signals
