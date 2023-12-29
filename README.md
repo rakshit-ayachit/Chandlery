@@ -1,7 +1,6 @@
-# We've Got Herbes - Medicinal Plant Classifier
+# Chandlery: Illuminating Market Signals
 
 Chandlery is a Python tool designed for comprehensive candlestick pattern analysis to Zerodha's stock market data. By employing an alternative approach to accessing Zerodha's data, Chandlery empowers users to perform in-depth analysis of candlestick patterns without direct API integration. This tool facilitates historical data retrieval, pattern identification, and signal significance analysis, enabling users to make informed decisions in stock trading based on advanced technical analysis techniques. Chandlery provides a user-friendly interface for visualizing candlestick patterns, offering valuable insights into stock market trends and potential trading opportunities.
-
 
 ## Table of Contents
 
@@ -29,16 +28,13 @@ Additionally, Chandlery's capability to retrieve historical data, identify patte
 
 Overall, the project's impact lies in democratizing access to sophisticated technical analysis tools, fostering a more level playing field in the realm of stock trading, and empowering users with the insights necessary to make informed decisions in their investment strategies.
 
-### Potential Applications
-- **Wide-ranging Usage:** From personal herbal enthusiasts to professionals in natural medicine, botany, and pharmacology, its applications are diverse. Offers insights and information dissemination in various fields.
-
 ## Prerequisites
 
 Before you get started, make sure you have the following prerequisites installed on your system:
 
 - **Python**: You can download Python from the [official Python website](https://www.python.org/downloads/).
 - **Git**: To clone the repository, you'll need Git. You can download it from [here](https://git-scm.com/downloads).
-
+- **Zerodha-Kite Account**: Access to a Zerodha account is required to obtain the necessary authentication tokens for data access. You can access it from [here](https://kite.zerodha.com/).
 
 ## Getting Started and Running the Application
 
