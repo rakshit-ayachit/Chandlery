@@ -41,19 +41,19 @@ Before you get started, make sure you have the following prerequisites installed
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rakshit-ayachit/weve-got-herbes.git
+   git clone https://github.com/rakshit-ayachit/Chandlery.git
 
-2. **Open `index.html`:**
-- Navigate to the cloned directory.
-- Open `index.html` in your preferred web browser.
+2. **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
-3. **Classifier Interface:**
-- Upon opening `index.html`, the interface will load.
-- Upload an image of a medicinal plant through the provided interface.
-- The classifier will identify the plant and display relevant information.
 
-4. **Chatbot Integration:**
-- Explore and interact with the integrated AI chatbot for additional information about different plants.
+3. **Login to your Kite-Zerodha account and open the Easy Cookie Editor extension and copy the value of the enctoken into the enctoken.txt:**
+
+4. **Run the application:**
+   ```bash
+   python -m run chandlery_stream.py
+5. **Select a stock, interval, and duration to analyze candlestick patterns.**
 
 ## Screenshots
 ![index](https://github.com/rakshit-ayachit/weve-got-herbes/assets/129822642/26882d6d-eaf9-4679-876b-5e650154bc51)
@@ -61,29 +61,18 @@ Before you get started, make sure you have the following prerequisites installed
 ![chatbot](https://github.com/rakshit-ayachit/weve-got-herbes/assets/129822642/608824ba-c8ba-4878-b4c8-1de6fb9ce65b)
 
 
-
 ## Contributing
 
- We welcome your contributions to [We've got Herbes](https://github.com/rakshit-ayachit/weve-got-herbes)! Start by forking the repository, cloning it to your local machine, creating a new branch, making your changes, and committing them. Then, push your changes to your fork on GitHub and create a pull request. Your contributions will be reviewed and, once approved, merged into the main project. Thank you for your help!
+ We welcome your contributions to [Chandler](https://github.com/rakshit-ayachit/Chandlery)! Start by forking the repository, cloning it to your local machine, creating a new branch, making your changes, and committing them. Then, push your changes to your fork on GitHub and create a pull request. Your contributions will be reviewed and, once approved, merged into the main project. Thank you for your help!
 
-## Contributors and Contact
+## Contact
 
-A big thank you to the following contributors who have helped improve this project:
-
-- Srujana Akella [@srujanaakella](https://github.com/srujanaakella) - [srujanaakella05@gmail.com](mailto:srujanaakella05@gmail.com)
-- Bhuvan Noone [@Shrek3147](https://github.com/Shrek3147) - [noonebhuvan3@gmail.com](mailto:noonebhuvan3@gmail.com)
-- Tareen Khan - [khantareen1@gmail.com](mailto:khantareen1@gmail.com)
-- Aditi Kulkarni - [aditisrcm9@gmail.com](mailto:aditisrcm9@gmail.com)
-- Arnav Choudhary - [@ArnavChoudhary](#ArnavChoudhary) - [arnavchoudhary2212@gmail.com](mailto:arnavchoudhary2212@gmail.com)
-
-Your contributions are greatly appreciated!
-
-Feel free to contact me ([Rakshit Ayachit](mailto:rakshit@ayachit@gmail.com)) or any of the contributors for further information or support regarding this project.
+Feel free to contact me ([Rakshit Ayachit](mailto:rakshit@ayachit@gmail.com)) for further information or support regarding this project.
 
 
 ## Project Status
 
-This project is currently under active development, and new features and improvements are being added regularly. While it is functional, there may be occasional updates that could affect usage. We appreciate your understanding and patience as we work to enhance this application. If you encounter any issues or have suggestions, please [open an issue](https://github.com/rakshit-ayachit/weve-got-herbes/issues). Your feedback is valuable to us!
+This project is currently under active development, and new features and improvements are being added regularly. While it is functional, there may be occasional updates that could affect usage. We appreciate your understanding and patience as we work to enhance this application. If you encounter any issues or have suggestions, please [open an issue](https://github.com/rakshit-ayachit/Chandlery/issues). Your feedback is valuable to us!
 
 
 ## License
