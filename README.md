@@ -66,7 +66,7 @@ Before you get started, make sure you have the following prerequisites installed
 
 ## Contributing
 
- We welcome your contributions to [Chandler](https://github.com/rakshit-ayachit/Chandlery)! Start by forking the repository, cloning it to your local machine, creating a new branch, making your changes, and committing them. Then, push your changes to your fork on GitHub and create a pull request. Your contributions will be reviewed and, once approved, merged into the main project. Thank you for your help!
+ We welcome your contributions to [Chandlery](https://github.com/rakshit-ayachit/Chandlery)! Start by forking the repository, cloning it to your local machine, creating a new branch, making your changes, and committing them. Then, push your changes to your fork on GitHub and create a pull request. Your contributions will be reviewed and, once approved, merged into the main project. Thank you for your help!
 
 ## Contact
 
