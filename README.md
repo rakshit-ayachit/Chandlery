@@ -4,7 +4,9 @@
 
 # Chandlery: Illuminating Market Signals
 
-**Chandlery** is a Python tool designed for comprehensive candlestick pattern analysis to Zerodha's stock market data. By employing an alternative approach to accessing Zerodha's data, Chandlery empowers users to perform in-depth analysis of candlestick patterns without direct API integration. This tool facilitates historical data retrieval, pattern identification, and signal significance analysis, enabling users to make informed decisions in stock trading based on advanced technical analysis techniques. Chandlery provides a user-friendly interface for visualizing candlestick patterns, offering valuable insights into stock market trends and potential trading opportunities.
+**[Chandlery](https://huggingface.co/spaces/rakadon/Chandlery-app)** is a Python tool designed for comprehensive candlestick pattern analysis to Zerodha's stock market data. By employing an alternative approach to accessing Zerodha's data, Chandlery empowers users to perform in-depth analysis of candlestick patterns without direct API integration. This tool facilitates historical data retrieval, pattern identification, and signal significance analysis, enabling users to make informed decisions in stock trading based on advanced technical analysis techniques. Chandlery provides a user-friendly interface for visualizing candlestick patterns, offering valuable insights into stock market trends and potential trading opportunities.
+
+Check it out here: **[Chandlery](https://huggingface.co/spaces/rakadon/Chandlery-app)**
 
 ## Table of Contents
 
@@ -83,7 +85,7 @@ This project is currently under active development, and new features and improve
 This project is licensed under the [MIT LICENSE](LICENSE).
 
 ## Disclaimer
-Please note that **Chandlery** is currently under development and may not fully function for all market scenarios, particularly for sideways trends. It is intended for personal use only and should not be considered as a professional trading strategy or financial advice. Users are encouraged to seek guidance from financial experts before executing any trades based on the information provided by this application. The developer cannot be held responsible for any financial losses incurred by using this app.
+Please note that **[Chandlery](https://huggingface.co/spaces/rakadon/Chandlery-app)** is currently under development and may not fully function for all market scenarios, particularly for sideways trends. It is intended for personal use only and should not be considered as a professional trading strategy or financial advice. Users are encouraged to seek guidance from financial experts before executing any trades based on the information provided by this application. The developer cannot be held responsible for any financial losses incurred by using this app.
 
        
 
